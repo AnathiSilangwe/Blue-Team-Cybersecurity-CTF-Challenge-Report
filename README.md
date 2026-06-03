@@ -108,4 +108,4 @@ All activities were performed in a controlled lab/CTF environment.
 ## Author
 
 Anathi Silangwe
-Cybersecurity & IT Student
+Cybersecurity & BIT Student
